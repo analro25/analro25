@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="left">Olá, eu sou a Ana.</h1>
 
-<!--
-**analro25/analro25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Sou estudante de computação apaixonada por tecnologia, design e criatividade. Estou trilhando o caminho para me tornar desenvolvedora fullstack, explorando o universo do front e back-end. Também mergulho no design com Figma, buscando criar interfaces bonitas, funcionais e acessíveis.<br><br>Me inspiro em soluções que fazem a diferença na vida das pessoas e quero unir código e design para construir experiências incríveis. Estou sempre aprendendo, testando ideias e evoluindo com cada projeto.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">✨Sobre mim</h2>
+
+###
+
+<p align="left">👩‍💻 Estudante de Computação e Tecnologia <br>🚀 Trainee de Desenvolvimento Web<br>📚 Estudando Front-end pelo Senai Cimatec<br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌐 Tecnologias: HTML, CSS, JavaScript, Python, Figma <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais<br>💡 Soluções que impactam e conectam pessoas</p>
+
+###
+
+<h2 align="left">Tecnologias que uso:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
