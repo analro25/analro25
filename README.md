@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">👩‍💻 Estudante de Computação e Tecnologia <br>🚀 Trainee de Desenvolvimento Web pela InfoJr<br>📚 Estudando Front-end pelo Senai Cimatec<br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌐 Tecnologias: HTML, CSS, JavaScript, Python, Figma <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais<br>💡 Soluções que impactam e conectam pessoas</p>
+<p align="left">👩‍💻 Estudante de Computação pela UFBA <br>🚀 Trainee de Desenvolvimento Web pela InfoJr<br>📚 Estudando Front-end pelo Senai Cimatec<br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌐 Tecnologias: HTML, CSS, JavaScript, Python, Figma <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais<br>💡 Soluções que impactam e conectam pessoas</p>
 
 ###
 
-<h2 align="left">Tecnologias que uso:</h2>
+<h2 align="left">Tecnologias que utilizo:</h2>
 
 ###
 
