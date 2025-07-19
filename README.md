@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedora em formação apaixonada por tecnologia, design e criatividade. Estou trilhando o caminho para me tornar desenvolvedora fullstack, explorando o universo do front e back-end. Também mergulho no design com Figma pois quero unir código e design para construir experiências incríveis, buscando criar interfaces bonitas, funcionais e acessíveis. </p>
+<p align="left">Desenvolvedora em formação apaixonada por tecnologia, design e criatividade. Estou trilhando o caminho para me tornar desenvolvedora fullstack, explorando o universo do front e back-end. Também me aventuro no design com o Figma pois quero unir código e design para construir experiências incríveis, buscando criar interfaces bonitas, funcionais e acessíveis. </p>
 
 ###
 
