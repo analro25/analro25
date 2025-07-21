@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/73/bd/14/73bd14426ca8b035ca994d0110a1f8cc.gif"  />
+
+###
+
 <p align="left">👩‍💻 Estudante de Computação - UFBA <br>🚀 Trainee de Desenvolvimento Web - InfoJr<br>📚 Estudando Front-end - Senai Cimatec<br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌐 Tecnologias: HTML, CSS, JavaScript, Python, Figma <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>💡 Soluções que impactam e conectam pessoas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais </p>
 
 ###
