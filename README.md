@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👩‍💻 Estudante de Computação(2° Semestre) - UFBA <br>🚀 Trainee de Desenvolvimento Web - InfoJr<br>📚 Estudando Front-end - Senai Cimatec<br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌐 Tecnologias: HTML, CSS, JavaScript, Python, Figma<br>🌍 Idiomas: Português, inglês, japonês e francês <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>💡 Soluções que impactam e conectam pessoas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais </p>
+<p align="left">👩‍💻 Estudante de Computação(2° Semestre) - UFBA <br>🚀 Trainee de Desenvolvimento Web - InfoJr <br>📚 Estudando Front-end - Senai Cimatec<br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>💡 Soluções que impactam e conectam pessoas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais </p>
 
 ###
 
