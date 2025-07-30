@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="220" src="https://media1.tenor.com/m/1VEnfKkMGikAAAAd/lofi-girl-music.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/1VEnfKkMGikAAAAd/lofi-girl-music.gif"  />
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que utilizo:</h2>
+<h2 align="left">Linguagens e tecnologias que utilizo:</h2>
 
 ###
 
